@@ -1,0 +1,12 @@
+Tetris
+7 different shapes that can rotate and slowly fall down the screen
+Has a panel that shows the next shape that is coming.
+if you press the up key it drops all the way down instantly
+if you press the down key it goes down faster than the normal fall rate
+if a layer fills up the layer is removed and everything above it is shifted down
+a score is kept based on layers cleared
+we will use python arcade
+bombs come down and blow up other block. Or a random bomb that might clear a line or add a line
+nintendog block will only show up nintendog after you clear a line with it.
+Start screen that holds the current high score of the time you are playing
+
